@@ -1,3 +1,3 @@
 #!/bin/bash
 
-nohup rackup &
+nohup rackup -p 80 &
